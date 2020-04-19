@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_e8e8e8">#e8e8e8</color>
+    <color name="color_F5F6F7">#F5F6F7</color>
+    <color name="color_000000">#000000</color>
+    <color name="tab_bg_color">#f4f3ef</color>
+    <color name="tv_line">#cacaca</color>
+    <color name="color_yellow">#f4ea2a</color>
+
+    <color name="table_bottom_line">#000002</color>
+    <color name="tab_text_color">#d96932</color>
+</resources>
